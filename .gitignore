@@ -128,3 +128,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+/history-online/package-lock.json
+/history-online/history-online.iml
+/.idea/
